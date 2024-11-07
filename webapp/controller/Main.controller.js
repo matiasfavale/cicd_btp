@@ -6,7 +6,7 @@ function (Controller) {
 
     return Controller.extend("project1.controller.Main", {
         onInit: function () {
-            console.log("V2024");
+            console.log("V2");
         }
     });
 });
